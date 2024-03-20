@@ -12,7 +12,9 @@ I am currently putting the finishing touches on my latest project, where I under
 - Statistics collected and graphed
 
 
-In the near future, I look forward to sharing new projects and adventures. Some new technologies I look forward to learning are:
+In the near future, I look forward to sharing new projects and adventures!
+
+Some new technologies I look forward to learning are:
 - TypeScript
 - Svelte
 - Tailwind
