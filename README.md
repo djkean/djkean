@@ -15,6 +15,7 @@ I am currently putting the finishing touches on my latest project, where I under
 In the near future, I look forward to sharing new projects and adventures!
 
 #### Some new technologies I look forward to learning are:
+- Python
 - TypeScript
 - Svelte
 - Tailwind
